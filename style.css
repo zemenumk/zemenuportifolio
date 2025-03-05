@@ -9,7 +9,8 @@
 #image{margin-left: 7px;}
 @media screen and (max-width: 680px) {
     #imgANDsummary {
-      background-color: lightgreen;
+    margin-right: auto;
+
       display: block;
     }
   }

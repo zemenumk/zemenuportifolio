@@ -6,7 +6,12 @@
     margin-left: 16px;
     padding-top: 35px;
 }
-#image{margin-left: 7px;}
+#image {
+  border-radius: 10px;
+  margin-left: 7px;
+
+}
+
 @media screen and (max-width: 580px) {
     #imgANDsummary {
       display: block;

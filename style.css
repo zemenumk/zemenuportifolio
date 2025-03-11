@@ -10,7 +10,7 @@ float:left;
     
 }
 
-@media screen and (min-width: 580px) {
+@media screen and (min-width: 880px) {
     #summary {
       margin-left:100px
       

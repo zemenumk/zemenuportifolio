@@ -14,7 +14,7 @@ float:left;
 
 @media screen and (max-width: 580px) {
     #imgANDsummary {
-      display: block;
+      
     }
         #Summary {
                 margin: auto !important;

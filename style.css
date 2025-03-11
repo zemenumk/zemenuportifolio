@@ -1,5 +1,5 @@
 #imgANDsummary{
-    display:flex;
+
 }
 #Summary{
         margin-right: auto;
@@ -8,7 +8,6 @@
 }
 #image {
   border-radius: 20px;
-  margin-left: 5px;
 float:left;
     
 }

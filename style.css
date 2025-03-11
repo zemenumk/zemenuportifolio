@@ -9,7 +9,8 @@
 #image {
   border-radius: 20px;
   margin-left: 5px;
-
+float:left;
+    
 }
 
 @media screen and (max-width: 580px) {

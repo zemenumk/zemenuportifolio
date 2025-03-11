@@ -1,11 +1,7 @@
 #imgANDsummary{
 
 }
-#Summary{
-        margin-right: auto;
-    margin-left: 16px;
-    padding-top: 35px;
-}
+
 #image {
   border-radius: 20px;
 float:left;
@@ -16,10 +12,5 @@ float:left;
     #imgANDsummary {
       
     }
-        #Summary {
-                margin: auto !important;
-           padding-top: 0%;
-
-    }
-
+     
   }

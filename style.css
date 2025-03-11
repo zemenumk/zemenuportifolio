@@ -1,6 +1,3 @@
-#imgANDsummary{
-
-}
 
 #image {
   width: 140px;
@@ -12,8 +9,11 @@ float:left;
 
 @media screen and (min-width: 880px) {
     #summary {
-      margin-left:100px
-      
+ 
     }
-     
+    #imgANDsummary{
+     margin-left:100px
+      
+}
+ 
   }
